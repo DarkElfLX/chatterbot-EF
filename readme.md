@@ -1,7 +1,5 @@
-# ChatterBot Language Training Corpus
+# ChatterBot Language Training Corpus for EroFights.com
 
-[![Package Version](https://img.shields.io/pypi/v/chatterbot-corpus.svg)](https://pypi.python.org/pypi/chatterbot-corpus/)
-[![Build Status](https://travis-ci.org/gunthercox/chatterbot-corpus.svg?branch=master)](https://travis-ci.org/gunthercox/chatterbot-corpus)
 
 These modules are used to quickly train ChatterBot to respond to various inputs in different languages.
 Although much of ChatterBot is designed to be language independent, it is still useful to have these
